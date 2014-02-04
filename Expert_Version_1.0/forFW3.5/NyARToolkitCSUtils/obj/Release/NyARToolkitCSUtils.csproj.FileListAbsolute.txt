@@ -1,0 +1,16 @@
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\bin\Release\NyARToolkitCSUtils.dll
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\bin\Release\NyARToolkitCSUtils.pdb
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\bin\Release\DirectShowLib-2005.dll
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\bin\Release\NyARToolkitCS.dll
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\bin\Release\NyARToolkitCS.markersystem.dll
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\bin\Release\NyARToolkitCS.rpf.dll
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\bin\Release\NyARToolkitCS.rpf.pdb
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\bin\Release\NyARToolkitCS.pdb
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\bin\Release\NyARToolkitCS.markersystem.pdb
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\obj\Release\ResolveAssemblyReference.cache
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\obj\Release\NyARToolkitCSUtils.Capture.CameraSelectDialog.resources
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\obj\Release\NyARToolkitCSUtils.Direct3d.D3dSketchForm.resources
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\obj\Release\NyARToolkitCSUtils.dll
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\obj\Release\NyARToolkitCSUtils.pdb
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\obj\Release\GenerateResource-ResGen.read.1.tlog
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\obj\Release\GenerateResource-ResGen.write.1.tlog

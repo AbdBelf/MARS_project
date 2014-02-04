@@ -1,0 +1,42 @@
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\ImagePickup\bin\Debug\ImagePickup.exe
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\ImagePickup\bin\Debug\ImagePickup.pdb
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\ImagePickup\bin\Debug\DirectShowLib-2005.dll
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\ImagePickup\bin\Debug\NyARToolkitCS.dll
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\ImagePickup\bin\Debug\NyARToolkitCS.markersystem.dll
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\ImagePickup\bin\Debug\NyARToolkitCSUtils.dll
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\ImagePickup\bin\Debug\NyARToolkitCS.rpf.dll
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\ImagePickup\bin\Debug\NyARToolkitCS.markersystem.pdb
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\ImagePickup\bin\Debug\NyARToolkitCSUtils.pdb
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\ImagePickup\bin\Debug\NyARToolkitCS.pdb
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\ImagePickup\bin\Debug\NyARToolkitCS.rpf.pdb
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\ImagePickup\obj\Debug\ImagePickup.exe
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\ImagePickup\obj\Debug\ImagePickup.pdb
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\ImagePickup\obj\Debug\ImagePickup.csprojResolveAssemblyReference.cache
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\ImagePickup\bin\Debug\ImagePickup.exe
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\ImagePickup\bin\Debug\ImagePickup.pdb
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\ImagePickup\bin\Debug\DirectShowLib-2005.dll
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\ImagePickup\bin\Debug\NyARToolkitCS.dll
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\ImagePickup\bin\Debug\NyARToolkitCS.markersystem.dll
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\ImagePickup\bin\Debug\NyARToolkitCSUtils.dll
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\ImagePickup\bin\Debug\NyARToolkitCS.rpf.dll
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\ImagePickup\bin\Debug\NyARToolkitCS.markersystem.pdb
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\ImagePickup\bin\Debug\NyARToolkitCSUtils.pdb
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\ImagePickup\bin\Debug\NyARToolkitCS.pdb
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\ImagePickup\bin\Debug\NyARToolkitCS.rpf.pdb
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\ImagePickup\obj\Debug\ImagePickup.csprojResolveAssemblyReference.cache
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\ImagePickup\obj\Debug\ImagePickup.exe
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\ImagePickup\obj\Debug\ImagePickup.pdb
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\ImagePickup\bin\Debug\ImagePickup.exe
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\ImagePickup\bin\Debug\ImagePickup.pdb
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\ImagePickup\bin\Debug\DirectShowLib-2005.dll
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\ImagePickup\bin\Debug\NyARToolkitCS.dll
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\ImagePickup\bin\Debug\NyARToolkitCS.markersystem.dll
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\ImagePickup\bin\Debug\NyARToolkitCSUtils.dll
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\ImagePickup\bin\Debug\NyARToolkitCS.rpf.dll
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\ImagePickup\bin\Debug\NyARToolkitCS.markersystem.pdb
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\ImagePickup\bin\Debug\NyARToolkitCSUtils.pdb
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\ImagePickup\bin\Debug\NyARToolkitCS.pdb
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\ImagePickup\bin\Debug\NyARToolkitCS.rpf.pdb
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\ImagePickup\obj\Debug\ImagePickup.csprojResolveAssemblyReference.cache
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\ImagePickup\obj\Debug\ImagePickup.exe
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\ImagePickup\obj\Debug\ImagePickup.pdb

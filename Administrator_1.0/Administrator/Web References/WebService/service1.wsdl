@@ -1,0 +1,1051 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="setImage">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="value" type="s:base64Binary" />
+            <s:element minOccurs="1" maxOccurs="1" name="t" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="login" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="setImageResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="getImage">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="login" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getImageResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getImageResult" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="loginTechnician">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="login" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="password" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="loginTechnicianResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="loginTechnicianResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getFullNameTechnician">
+        <s:complexType />
+      </s:element>
+      <s:element name="getFullNameTechnicianResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getFullNameTechnicianResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConnectExpert">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="login" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="name" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="lastname" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="ipaddress" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConnectExpertResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ConnectExpertResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DisconnectExpert">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="login" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DisconnectExpertResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="DisconnectExpertResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DisconnectTechnician">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="login" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DisconnectTechnicianResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="DisconnectTechnicianResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getConnectedExperts">
+        <s:complexType />
+      </s:element>
+      <s:element name="getConnectedExpertsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getConnectedExpertsResult" type="tns:ArrayOfArrayOfAnyType" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfArrayOfAnyType">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="ArrayOfAnyType" nillable="true" type="tns:ArrayOfAnyType" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfAnyType">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="anyType" nillable="true" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="SendNotification">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="login" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="iInt" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="techName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="techLastName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="breakdownType" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="breakdown" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="diagnostic" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SendNotificationResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="SendNotificationResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getNotificationInfo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="login" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getNotificationInfoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getNotificationInfoResult" type="tns:ArrayOfAnyType" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ApproveNotification">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="login" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ApproveNotificationResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ApproveNotificationResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CancelNotification">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="login" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CancelNotificationResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CancelNotificationResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getNotificationState">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="login" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getNotificationStateResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="getNotificationStateResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="StartVideoFlow">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="login" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="StartVideoFlowResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="StartVideoFlowResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="StopVideoFlow">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="login" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="StopVideoFlowResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="StopVideoFlowResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SendProcedure">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="login" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="ProcID" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SendProcedureResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="SendProcedureResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ReceiveProcedure">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="login" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ReceiveProcedureResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ReceiveProcedureResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SendCompressionRate">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="login" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="rate" type="s:float" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SendCompressionRateResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="SendCompressionRateResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ReceiveCompressionRate">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="login" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ReceiveCompressionRateResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ReceiveCompressionRateResult" type="s:float" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SaveXmlFile">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fileName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="XmlDoc">
+              <s:complexType mixed="true">
+                <s:sequence>
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SaveXmlFileResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="SaveXmlFileResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CreateXmlFile">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fileName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="content" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CreateXmlFileResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CreateXmlFileResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FileExists">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fileName" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FileExistsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="FileExistsResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="LoadFile">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fileName" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="LoadFileResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="LoadFileResult" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeleteFile">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fileName" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DeleteFileResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="DeleteFileResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="setImageSoapIn">
+    <wsdl:part name="parameters" element="tns:setImage" />
+  </wsdl:message>
+  <wsdl:message name="setImageSoapOut">
+    <wsdl:part name="parameters" element="tns:setImageResponse" />
+  </wsdl:message>
+  <wsdl:message name="getImageSoapIn">
+    <wsdl:part name="parameters" element="tns:getImage" />
+  </wsdl:message>
+  <wsdl:message name="getImageSoapOut">
+    <wsdl:part name="parameters" element="tns:getImageResponse" />
+  </wsdl:message>
+  <wsdl:message name="loginTechnicianSoapIn">
+    <wsdl:part name="parameters" element="tns:loginTechnician" />
+  </wsdl:message>
+  <wsdl:message name="loginTechnicianSoapOut">
+    <wsdl:part name="parameters" element="tns:loginTechnicianResponse" />
+  </wsdl:message>
+  <wsdl:message name="getFullNameTechnicianSoapIn">
+    <wsdl:part name="parameters" element="tns:getFullNameTechnician" />
+  </wsdl:message>
+  <wsdl:message name="getFullNameTechnicianSoapOut">
+    <wsdl:part name="parameters" element="tns:getFullNameTechnicianResponse" />
+  </wsdl:message>
+  <wsdl:message name="ConnectExpertSoapIn">
+    <wsdl:part name="parameters" element="tns:ConnectExpert" />
+  </wsdl:message>
+  <wsdl:message name="ConnectExpertSoapOut">
+    <wsdl:part name="parameters" element="tns:ConnectExpertResponse" />
+  </wsdl:message>
+  <wsdl:message name="DisconnectExpertSoapIn">
+    <wsdl:part name="parameters" element="tns:DisconnectExpert" />
+  </wsdl:message>
+  <wsdl:message name="DisconnectExpertSoapOut">
+    <wsdl:part name="parameters" element="tns:DisconnectExpertResponse" />
+  </wsdl:message>
+  <wsdl:message name="DisconnectTechnicianSoapIn">
+    <wsdl:part name="parameters" element="tns:DisconnectTechnician" />
+  </wsdl:message>
+  <wsdl:message name="DisconnectTechnicianSoapOut">
+    <wsdl:part name="parameters" element="tns:DisconnectTechnicianResponse" />
+  </wsdl:message>
+  <wsdl:message name="getConnectedExpertsSoapIn">
+    <wsdl:part name="parameters" element="tns:getConnectedExperts" />
+  </wsdl:message>
+  <wsdl:message name="getConnectedExpertsSoapOut">
+    <wsdl:part name="parameters" element="tns:getConnectedExpertsResponse" />
+  </wsdl:message>
+  <wsdl:message name="SendNotificationSoapIn">
+    <wsdl:part name="parameters" element="tns:SendNotification" />
+  </wsdl:message>
+  <wsdl:message name="SendNotificationSoapOut">
+    <wsdl:part name="parameters" element="tns:SendNotificationResponse" />
+  </wsdl:message>
+  <wsdl:message name="getNotificationInfoSoapIn">
+    <wsdl:part name="parameters" element="tns:getNotificationInfo" />
+  </wsdl:message>
+  <wsdl:message name="getNotificationInfoSoapOut">
+    <wsdl:part name="parameters" element="tns:getNotificationInfoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ApproveNotificationSoapIn">
+    <wsdl:part name="parameters" element="tns:ApproveNotification" />
+  </wsdl:message>
+  <wsdl:message name="ApproveNotificationSoapOut">
+    <wsdl:part name="parameters" element="tns:ApproveNotificationResponse" />
+  </wsdl:message>
+  <wsdl:message name="CancelNotificationSoapIn">
+    <wsdl:part name="parameters" element="tns:CancelNotification" />
+  </wsdl:message>
+  <wsdl:message name="CancelNotificationSoapOut">
+    <wsdl:part name="parameters" element="tns:CancelNotificationResponse" />
+  </wsdl:message>
+  <wsdl:message name="getNotificationStateSoapIn">
+    <wsdl:part name="parameters" element="tns:getNotificationState" />
+  </wsdl:message>
+  <wsdl:message name="getNotificationStateSoapOut">
+    <wsdl:part name="parameters" element="tns:getNotificationStateResponse" />
+  </wsdl:message>
+  <wsdl:message name="StartVideoFlowSoapIn">
+    <wsdl:part name="parameters" element="tns:StartVideoFlow" />
+  </wsdl:message>
+  <wsdl:message name="StartVideoFlowSoapOut">
+    <wsdl:part name="parameters" element="tns:StartVideoFlowResponse" />
+  </wsdl:message>
+  <wsdl:message name="StopVideoFlowSoapIn">
+    <wsdl:part name="parameters" element="tns:StopVideoFlow" />
+  </wsdl:message>
+  <wsdl:message name="StopVideoFlowSoapOut">
+    <wsdl:part name="parameters" element="tns:StopVideoFlowResponse" />
+  </wsdl:message>
+  <wsdl:message name="SendProcedureSoapIn">
+    <wsdl:part name="parameters" element="tns:SendProcedure" />
+  </wsdl:message>
+  <wsdl:message name="SendProcedureSoapOut">
+    <wsdl:part name="parameters" element="tns:SendProcedureResponse" />
+  </wsdl:message>
+  <wsdl:message name="ReceiveProcedureSoapIn">
+    <wsdl:part name="parameters" element="tns:ReceiveProcedure" />
+  </wsdl:message>
+  <wsdl:message name="ReceiveProcedureSoapOut">
+    <wsdl:part name="parameters" element="tns:ReceiveProcedureResponse" />
+  </wsdl:message>
+  <wsdl:message name="SendCompressionRateSoapIn">
+    <wsdl:part name="parameters" element="tns:SendCompressionRate" />
+  </wsdl:message>
+  <wsdl:message name="SendCompressionRateSoapOut">
+    <wsdl:part name="parameters" element="tns:SendCompressionRateResponse" />
+  </wsdl:message>
+  <wsdl:message name="ReceiveCompressionRateSoapIn">
+    <wsdl:part name="parameters" element="tns:ReceiveCompressionRate" />
+  </wsdl:message>
+  <wsdl:message name="ReceiveCompressionRateSoapOut">
+    <wsdl:part name="parameters" element="tns:ReceiveCompressionRateResponse" />
+  </wsdl:message>
+  <wsdl:message name="SaveXmlFileSoapIn">
+    <wsdl:part name="parameters" element="tns:SaveXmlFile" />
+  </wsdl:message>
+  <wsdl:message name="SaveXmlFileSoapOut">
+    <wsdl:part name="parameters" element="tns:SaveXmlFileResponse" />
+  </wsdl:message>
+  <wsdl:message name="CreateXmlFileSoapIn">
+    <wsdl:part name="parameters" element="tns:CreateXmlFile" />
+  </wsdl:message>
+  <wsdl:message name="CreateXmlFileSoapOut">
+    <wsdl:part name="parameters" element="tns:CreateXmlFileResponse" />
+  </wsdl:message>
+  <wsdl:message name="FileExistsSoapIn">
+    <wsdl:part name="parameters" element="tns:FileExists" />
+  </wsdl:message>
+  <wsdl:message name="FileExistsSoapOut">
+    <wsdl:part name="parameters" element="tns:FileExistsResponse" />
+  </wsdl:message>
+  <wsdl:message name="LoadFileSoapIn">
+    <wsdl:part name="parameters" element="tns:LoadFile" />
+  </wsdl:message>
+  <wsdl:message name="LoadFileSoapOut">
+    <wsdl:part name="parameters" element="tns:LoadFileResponse" />
+  </wsdl:message>
+  <wsdl:message name="DeleteFileSoapIn">
+    <wsdl:part name="parameters" element="tns:DeleteFile" />
+  </wsdl:message>
+  <wsdl:message name="DeleteFileSoapOut">
+    <wsdl:part name="parameters" element="tns:DeleteFileResponse" />
+  </wsdl:message>
+  <wsdl:portType name="Service1Soap">
+    <wsdl:operation name="setImage">
+      <wsdl:input message="tns:setImageSoapIn" />
+      <wsdl:output message="tns:setImageSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getImage">
+      <wsdl:input message="tns:getImageSoapIn" />
+      <wsdl:output message="tns:getImageSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="loginTechnician">
+      <wsdl:input message="tns:loginTechnicianSoapIn" />
+      <wsdl:output message="tns:loginTechnicianSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getFullNameTechnician">
+      <wsdl:input message="tns:getFullNameTechnicianSoapIn" />
+      <wsdl:output message="tns:getFullNameTechnicianSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ConnectExpert">
+      <wsdl:input message="tns:ConnectExpertSoapIn" />
+      <wsdl:output message="tns:ConnectExpertSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DisconnectExpert">
+      <wsdl:input message="tns:DisconnectExpertSoapIn" />
+      <wsdl:output message="tns:DisconnectExpertSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DisconnectTechnician">
+      <wsdl:input message="tns:DisconnectTechnicianSoapIn" />
+      <wsdl:output message="tns:DisconnectTechnicianSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getConnectedExperts">
+      <wsdl:input message="tns:getConnectedExpertsSoapIn" />
+      <wsdl:output message="tns:getConnectedExpertsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SendNotification">
+      <wsdl:input message="tns:SendNotificationSoapIn" />
+      <wsdl:output message="tns:SendNotificationSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getNotificationInfo">
+      <wsdl:input message="tns:getNotificationInfoSoapIn" />
+      <wsdl:output message="tns:getNotificationInfoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ApproveNotification">
+      <wsdl:input message="tns:ApproveNotificationSoapIn" />
+      <wsdl:output message="tns:ApproveNotificationSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CancelNotification">
+      <wsdl:input message="tns:CancelNotificationSoapIn" />
+      <wsdl:output message="tns:CancelNotificationSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getNotificationState">
+      <wsdl:input message="tns:getNotificationStateSoapIn" />
+      <wsdl:output message="tns:getNotificationStateSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="StartVideoFlow">
+      <wsdl:input message="tns:StartVideoFlowSoapIn" />
+      <wsdl:output message="tns:StartVideoFlowSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="StopVideoFlow">
+      <wsdl:input message="tns:StopVideoFlowSoapIn" />
+      <wsdl:output message="tns:StopVideoFlowSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SendProcedure">
+      <wsdl:input message="tns:SendProcedureSoapIn" />
+      <wsdl:output message="tns:SendProcedureSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ReceiveProcedure">
+      <wsdl:input message="tns:ReceiveProcedureSoapIn" />
+      <wsdl:output message="tns:ReceiveProcedureSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SendCompressionRate">
+      <wsdl:input message="tns:SendCompressionRateSoapIn" />
+      <wsdl:output message="tns:SendCompressionRateSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ReceiveCompressionRate">
+      <wsdl:input message="tns:ReceiveCompressionRateSoapIn" />
+      <wsdl:output message="tns:ReceiveCompressionRateSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SaveXmlFile">
+      <wsdl:input message="tns:SaveXmlFileSoapIn" />
+      <wsdl:output message="tns:SaveXmlFileSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CreateXmlFile">
+      <wsdl:input message="tns:CreateXmlFileSoapIn" />
+      <wsdl:output message="tns:CreateXmlFileSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="FileExists">
+      <wsdl:input message="tns:FileExistsSoapIn" />
+      <wsdl:output message="tns:FileExistsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="LoadFile">
+      <wsdl:input message="tns:LoadFileSoapIn" />
+      <wsdl:output message="tns:LoadFileSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteFile">
+      <wsdl:input message="tns:DeleteFileSoapIn" />
+      <wsdl:output message="tns:DeleteFileSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="Service1Soap" type="tns:Service1Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="setImage">
+      <soap:operation soapAction="http://tempuri.org/setImage" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getImage">
+      <soap:operation soapAction="http://tempuri.org/getImage" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="loginTechnician">
+      <soap:operation soapAction="http://tempuri.org/loginTechnician" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getFullNameTechnician">
+      <soap:operation soapAction="http://tempuri.org/getFullNameTechnician" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConnectExpert">
+      <soap:operation soapAction="http://tempuri.org/ConnectExpert" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DisconnectExpert">
+      <soap:operation soapAction="http://tempuri.org/DisconnectExpert" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DisconnectTechnician">
+      <soap:operation soapAction="http://tempuri.org/DisconnectTechnician" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getConnectedExperts">
+      <soap:operation soapAction="http://tempuri.org/getConnectedExperts" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SendNotification">
+      <soap:operation soapAction="http://tempuri.org/SendNotification" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getNotificationInfo">
+      <soap:operation soapAction="http://tempuri.org/getNotificationInfo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ApproveNotification">
+      <soap:operation soapAction="http://tempuri.org/ApproveNotification" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CancelNotification">
+      <soap:operation soapAction="http://tempuri.org/CancelNotification" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getNotificationState">
+      <soap:operation soapAction="http://tempuri.org/getNotificationState" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="StartVideoFlow">
+      <soap:operation soapAction="http://tempuri.org/StartVideoFlow" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="StopVideoFlow">
+      <soap:operation soapAction="http://tempuri.org/StopVideoFlow" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SendProcedure">
+      <soap:operation soapAction="http://tempuri.org/SendProcedure" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReceiveProcedure">
+      <soap:operation soapAction="http://tempuri.org/ReceiveProcedure" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SendCompressionRate">
+      <soap:operation soapAction="http://tempuri.org/SendCompressionRate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReceiveCompressionRate">
+      <soap:operation soapAction="http://tempuri.org/ReceiveCompressionRate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SaveXmlFile">
+      <soap:operation soapAction="http://tempuri.org/SaveXmlFile" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CreateXmlFile">
+      <soap:operation soapAction="http://tempuri.org/CreateXmlFile" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FileExists">
+      <soap:operation soapAction="http://tempuri.org/FileExists" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LoadFile">
+      <soap:operation soapAction="http://tempuri.org/LoadFile" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteFile">
+      <soap:operation soapAction="http://tempuri.org/DeleteFile" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="Service1Soap12" type="tns:Service1Soap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="setImage">
+      <soap12:operation soapAction="http://tempuri.org/setImage" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getImage">
+      <soap12:operation soapAction="http://tempuri.org/getImage" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="loginTechnician">
+      <soap12:operation soapAction="http://tempuri.org/loginTechnician" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getFullNameTechnician">
+      <soap12:operation soapAction="http://tempuri.org/getFullNameTechnician" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConnectExpert">
+      <soap12:operation soapAction="http://tempuri.org/ConnectExpert" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DisconnectExpert">
+      <soap12:operation soapAction="http://tempuri.org/DisconnectExpert" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DisconnectTechnician">
+      <soap12:operation soapAction="http://tempuri.org/DisconnectTechnician" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getConnectedExperts">
+      <soap12:operation soapAction="http://tempuri.org/getConnectedExperts" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SendNotification">
+      <soap12:operation soapAction="http://tempuri.org/SendNotification" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getNotificationInfo">
+      <soap12:operation soapAction="http://tempuri.org/getNotificationInfo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ApproveNotification">
+      <soap12:operation soapAction="http://tempuri.org/ApproveNotification" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CancelNotification">
+      <soap12:operation soapAction="http://tempuri.org/CancelNotification" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getNotificationState">
+      <soap12:operation soapAction="http://tempuri.org/getNotificationState" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="StartVideoFlow">
+      <soap12:operation soapAction="http://tempuri.org/StartVideoFlow" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="StopVideoFlow">
+      <soap12:operation soapAction="http://tempuri.org/StopVideoFlow" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SendProcedure">
+      <soap12:operation soapAction="http://tempuri.org/SendProcedure" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReceiveProcedure">
+      <soap12:operation soapAction="http://tempuri.org/ReceiveProcedure" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SendCompressionRate">
+      <soap12:operation soapAction="http://tempuri.org/SendCompressionRate" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReceiveCompressionRate">
+      <soap12:operation soapAction="http://tempuri.org/ReceiveCompressionRate" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SaveXmlFile">
+      <soap12:operation soapAction="http://tempuri.org/SaveXmlFile" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CreateXmlFile">
+      <soap12:operation soapAction="http://tempuri.org/CreateXmlFile" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FileExists">
+      <soap12:operation soapAction="http://tempuri.org/FileExists" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LoadFile">
+      <soap12:operation soapAction="http://tempuri.org/LoadFile" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteFile">
+      <soap12:operation soapAction="http://tempuri.org/DeleteFile" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="Service1Soap" binding="tns:Service1Soap">
+      <soap:address location="http://127.0.0.1/walid/service1.asmx" />
+    </wsdl:port>
+    <wsdl:port name="Service1Soap12" binding="tns:Service1Soap12">
+      <soap12:address location="http://127.0.0.1/walid/service1.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

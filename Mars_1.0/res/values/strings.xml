@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mars</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Mars Project</string>
+    <string name="title_Login">Authentification </string>
+    <string name="title_activity_expert">Expert receiving </string>
+    <string name="camera_name">HT03ACamera</string>
+    <string name="server_addr">192.168.24.31</string>
+    <string name="server_port">9889</string>
+    <string name="camera_tossing">Deleting\u2026</string>
+    <string name="camera_keeping">Keeping\u2026</string>
+    <string name="title_activity_spalsh_screen">MARS</string>
+    <string name="activity_main">Liste des Types de Panne</string>
+    <string name="activity_panne">Liste des Pannes</string>
+    <string name="activity_procedure">Liste des Procedures</string>
+    <string name="user">Id :</string>
+    <string name="pass">Password :</string>
+    <string name="login">Login </string>
+    <string name="cancel">Cancel </string>
+    <string name="typeP">Type de panne </string>
+    <string name="Panne">Panne  </string>
+    <string name="Procedure">Procédure de maintenance  </string>
+    <string name="DescriptionDiagnos">Diagnostic  </string>
+    <string name="envoyer">Envoyer </string>
+    <string name="save">Enregistrer </string>
+    <string name="ConnectedExperts">Connected Experts </string>
+
+</resources>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Administrator>
+  <Admin login="zetrix" password="123456">
+    <firstName>Abdelalim</firstName>
+    <lastName>ZERKANI</lastName>
+    <email>abdel.alim.zerkani@gmail.com</email>
+    <phoneNumber>0791320352</phoneNumber>
+    <address>Quartier Djbel Djorf ILOT 1763 N 8</address>
+    <role>Administrateur</role>
+    <specialty>Informatique</specialty>
+  </Admin>
+</Administrator>

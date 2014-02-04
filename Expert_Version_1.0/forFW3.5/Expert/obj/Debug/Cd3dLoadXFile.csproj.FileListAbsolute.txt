@@ -1,0 +1,45 @@
+C:\Users\walid\Desktop\source\C#\Cd3dLoadXFile\bin\Debug\Cd3dLoadXFile.exe
+C:\Users\walid\Desktop\source\C#\Cd3dLoadXFile\bin\Debug\Cd3dLoadXFile.pdb
+C:\Users\walid\Desktop\source\C#\Cd3dLoadXFile\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\walid\Desktop\source\C#\Cd3dLoadXFile\obj\Debug\Cd3dLoadXFile.RenderForm.resources
+C:\Users\walid\Desktop\source\C#\Cd3dLoadXFile\obj\Debug\Cd3dLoadXFile.Properties.Resources.resources
+C:\Users\walid\Desktop\source\C#\Cd3dLoadXFile\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\walid\Desktop\source\C#\Cd3dLoadXFile\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\walid\Desktop\source\C#\Cd3dLoadXFile\obj\Debug\Cd3dLoadXFile.exe
+C:\Users\walid\Desktop\source\C#\Cd3dLoadXFile\obj\Debug\Cd3dLoadXFile.pdb
+E:\Important Documents\C#\C# working woth meshes\Cd3dLoadXFile\obj\Debug\Cd3dLoadXFile.exe
+E:\Important Documents\C#\C# working woth meshes\Cd3dLoadXFile\obj\Debug\Cd3dLoadXFile.pdb
+E:\Important Documents\C#\C# working woth meshes\Cd3dLoadXFile\bin\Debug\Cd3dLoadXFile.exe
+E:\Important Documents\C#\C# working woth meshes\Cd3dLoadXFile\bin\Debug\Cd3dLoadXFile.pdb
+E:\Important Documents\C#\C# working woth meshes\Cd3dLoadXFile\obj\Debug\Cd3dLoadXFile.csprojResolveAssemblyReference.cache
+E:\Important Documents\C#\C# working woth meshes\Cd3dLoadXFile\obj\Debug\Cd3dLoadXFile.RenderForm.resources
+E:\Important Documents\C#\C# working woth meshes\Cd3dLoadXFile\obj\Debug\Cd3dLoadXFile.Properties.Resources.resources
+E:\Important Documents\C#\C# working woth meshes\Cd3dLoadXFile\obj\Debug\Cd3dLoadXFile.csproj.GenerateResource.Cache
+P:\Users\Abdelalim\Desktop\Cd3dLoadXFile\obj\Debug\Cd3dLoadXFile.csprojResolveAssemblyReference.cache
+P:\Users\Abdelalim\Desktop\Cd3dLoadXFile\obj\Debug\Cd3dLoadXFile.RenderForm.resources
+P:\Users\Abdelalim\Desktop\Cd3dLoadXFile\obj\Debug\Cd3dLoadXFile.Properties.Resources.resources
+P:\Users\Abdelalim\Desktop\Cd3dLoadXFile\obj\Debug\Cd3dLoadXFile.csproj.GenerateResource.Cache
+P:\Users\Abdelalim\Desktop\Cd3dLoadXFile\obj\Debug\Cd3dLoadXFile.exe
+P:\Users\Abdelalim\Desktop\Cd3dLoadXFile\obj\Debug\Cd3dLoadXFile.pdb
+P:\Users\Abdelalim\Desktop\Cd3dLoadXFile\bin\Debug\Cd3dLoadXFile.exe.config
+P:\Users\Abdelalim\Desktop\Cd3dLoadXFile\bin\Debug\Cd3dLoadXFile.exe
+P:\Users\Abdelalim\Desktop\Cd3dLoadXFile\bin\Debug\Cd3dLoadXFile.pdb
+P:\Users\Abdelalim\Desktop\Cd3dLoadXFile\bin\Debug\NyARToolkitCS.rpf.dll
+P:\Users\Abdelalim\Desktop\Cd3dLoadXFile\bin\Debug\NyARToolkitCSUtils.dll
+P:\Users\Abdelalim\Desktop\Cd3dLoadXFile\bin\Debug\NyARToolkitCS.dll
+P:\Users\Abdelalim\Desktop\Cd3dLoadXFile\bin\Debug\DirectShowLib-2005.dll
+P:\Users\Abdelalim\Desktop\Cd3dLoadXFile\bin\Debug\NyARToolkitCS.markersystem.dll
+P:\Users\Abdelalim\Desktop\Cd3dLoadXFile\bin\Debug\NyARToolkitCS.rpf.pdb
+P:\Users\Abdelalim\Desktop\Cd3dLoadXFile\bin\Debug\NyARToolkitCSUtils.pdb
+P:\Users\Abdelalim\Desktop\Cd3dLoadXFile\bin\Debug\NyARToolkitCS.pdb
+P:\Users\Abdelalim\Desktop\Cd3dLoadXFile\bin\Debug\NyARToolkitCS.markersystem.pdb
+C:\Users\walid\Desktop\Cd3dLoadXFile\bin\Debug\Cd3dLoadXFile.exe.config
+C:\Users\walid\Desktop\Cd3dLoadXFile\bin\Debug\Cd3dLoadXFile.exe
+C:\Users\walid\Desktop\Cd3dLoadXFile\bin\Debug\Cd3dLoadXFile.pdb
+C:\Users\walid\Desktop\Cd3dLoadXFile\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\walid\Desktop\Cd3dLoadXFile\obj\Debug\Cd3dLoadXFile.RenderForm.resources
+C:\Users\walid\Desktop\Cd3dLoadXFile\obj\Debug\Cd3dLoadXFile.Properties.Resources.resources
+C:\Users\walid\Desktop\Cd3dLoadXFile\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\walid\Desktop\Cd3dLoadXFile\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\walid\Desktop\Cd3dLoadXFile\obj\Debug\Cd3dLoadXFile.exe
+C:\Users\walid\Desktop\Cd3dLoadXFile\obj\Debug\Cd3dLoadXFile.pdb

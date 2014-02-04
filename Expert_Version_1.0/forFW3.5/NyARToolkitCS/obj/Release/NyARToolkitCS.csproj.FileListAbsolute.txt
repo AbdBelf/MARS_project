@@ -1,0 +1,8 @@
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCS\bin\Release\NyARToolkitCS.dll
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCS\bin\Release\NyARToolkitCS.pdb
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCS\obj\Release\ResolveAssemblyReference.cache
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCS\obj\Release\jp.nyatla.nyartoolkit.Properties.Resources.resources
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCS\obj\Release\NyARToolkitCS.dll
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCS\obj\Release\NyARToolkitCS.pdb
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCS\obj\Release\GenerateResource-ResGen.read.1.tlog
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCS\obj\Release\GenerateResource-ResGen.write.1.tlog

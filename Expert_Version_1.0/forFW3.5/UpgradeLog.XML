@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="NyARToolkitCS">
+</Property><Property Name="Solution File" Value="P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCS.sln">
+</Property><Property Name="Date" Value="Friday, March 8, 2013">
+</Property><Property Name="Time" Value="18:48">
+</Property></Properties><Event ErrorLevel="1" Project="NyARToolkitCS" Source="NyARToolkitCS\NyARToolkitCS.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="NyARToolkitCS" Source="NyARToolkitCS\NyARToolkitCS.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NyARToolkitCS" Source="NyARToolkitCS\NyARToolkitCS.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="NyARToolkitCSUtils" Source="NyARToolkitCSUtils\NyARToolkitCSUtils.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="NyARToolkitCSUtils" Source="NyARToolkitCSUtils\NyARToolkitCSUtils.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NyARToolkitCSUtils" Source="NyARToolkitCSUtils\NyARToolkitCSUtils.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="SimpleLiteDirect3d" Source="sample\SimpleLiteDirect3d\SimpleLiteDirect3d.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="SimpleLiteDirect3d" Source="sample\SimpleLiteDirect3d\SimpleLiteDirect3d.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SimpleLiteDirect3d" Source="sample\SimpleLiteDirect3d\SimpleLiteDirect3d.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RawTest" Source="sample\RawTest\RawTest.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RawTest" Source="sample\RawTest\RawTest.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="NyARToolkitCS.sandbox" Source="NyARToolkitCS.sandbox\NyARToolkitCS.sandbox.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="NyARToolkitCS.sandbox" Source="NyARToolkitCS.sandbox\NyARToolkitCS.sandbox.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NyARToolkitCS.sandbox" Source="NyARToolkitCS.sandbox\NyARToolkitCS.sandbox.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="SingleNyIdMarkerDirect3d" Source="sample\SingleNyIdMarkerDirect3d\SingleNyIdMarkerDirect3d.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="SingleNyIdMarkerDirect3d" Source="sample\SingleNyIdMarkerDirect3d\SingleNyIdMarkerDirect3d.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SingleNyIdMarkerDirect3d" Source="sample\SingleNyIdMarkerDirect3d\SingleNyIdMarkerDirect3d.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="CaptureTest" Source="sample\CaptureTest\CaptureTest.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="CaptureTest" Source="sample\CaptureTest\CaptureTest.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CaptureTest" Source="sample\CaptureTest\CaptureTest.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SingleARMarkerDirect3d" Source="sample\SingleARMarker\SingleARMarkerDirect3d.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SingleARMarkerDirect3d" Source="sample\SingleARMarker\SingleARMarkerDirect3d.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NyARToolkitCS.rpf" Source="NyARToolkitCS.rpf\NyARToolkitCS.rpf.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NyARToolkitCS.rpf" Source="NyARToolkitCS.rpf\NyARToolkitCS.rpf.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SimpleLite_ImageSource" Source="sample\SimpleLite_ImageSource\SimpleLite_ImageSource.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SimpleLite_ImageSource" Source="sample\SimpleLite_ImageSource\SimpleLite_ImageSource.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Test_NyARRealityD3d_ARMarker" Source="sample\Test_NyARRealityD3d_ARMarker\Test_NyARRealityD3d_ARMarker.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Test_NyARRealityD3d_ARMarker" Source="sample\Test_NyARRealityD3d_ARMarker\Test_NyARRealityD3d_ARMarker.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Test_NyARTrackerView" Source="sample\Test_NyARTrackerView\Test_NyARTrackerView.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Test_NyARTrackerView" Source="sample\Test_NyARTrackerView\Test_NyARTrackerView.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Test_NyARRealityD3d_IdMarker" Source="sample\Test_NyARRealityD3d_IdMarker\Test_NyARRealityD3d_IdMarker.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Test_NyARRealityD3d_IdMarker" Source="sample\Test_NyARRealityD3d_IdMarker\Test_NyARRealityD3d_IdMarker.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NyARToolkitCS.markersystem" Source="NyARToolkitCS.markersystem\NyARToolkitCS.markersystem.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NyARToolkitCS.markersystem" Source="NyARToolkitCS.markersystem\NyARToolkitCS.markersystem.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MarkerPlane" Source="sample\MarkerPlane\MarkerPlane.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MarkerPlane" Source="sample\MarkerPlane\MarkerPlane.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SimpleLite" Source="sample\SimpleLite\SimpleLite.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SimpleLite" Source="sample\SimpleLite\SimpleLite.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ImagePickup" Source="sample\ImagePickup\ImagePickup.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ImagePickup" Source="sample\ImagePickup\ImagePickup.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SimpleLiteForm" Source="sample\SimpleLiteForm\SimpleLiteForm.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SimpleLiteForm" Source="sample\SimpleLiteForm\SimpleLiteForm.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SimpleLiteM" Source="sample\SimpleLiteM\SimpleLiteM.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SimpleLiteM" Source="sample\SimpleLiteM\SimpleLiteM.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="NyARToolkitCS.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="NyARToolkitCS.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Test_NyARRealityD3d_ARMarker" Source="sample\Test_NyARRealityD3d_ARMarker\Test_NyARRealityD3d_ARMarker.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Test_NyARTrackerView" Source="sample\Test_NyARTrackerView\Test_NyARTrackerView.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Test_NyARRealityD3d_IdMarker" Source="sample\Test_NyARRealityD3d_IdMarker\Test_NyARRealityD3d_IdMarker.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="RawTest" Source="sample\RawTest\RawTest.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="CaptureTest" Source="sample\CaptureTest\CaptureTest.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SimpleLiteDirect3d" Source="sample\SimpleLiteDirect3d\SimpleLiteDirect3d.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SingleNyIdMarkerDirect3d" Source="sample\SingleNyIdMarkerDirect3d\SingleNyIdMarkerDirect3d.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SingleARMarkerDirect3d" Source="sample\SingleARMarker\SingleARMarkerDirect3d.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SimpleLite_ImageSource" Source="sample\SimpleLite_ImageSource\SimpleLite_ImageSource.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="MarkerPlane" Source="sample\MarkerPlane\MarkerPlane.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SimpleLite" Source="sample\SimpleLite\SimpleLite.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ImagePickup" Source="sample\ImagePickup\ImagePickup.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SimpleLiteM" Source="sample\SimpleLiteM\SimpleLiteM.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SimpleLiteForm" Source="sample\SimpleLiteForm\SimpleLiteForm.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="NyARToolkitCS" Source="NyARToolkitCS\NyARToolkitCS.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="NyARToolkitCSUtils" Source="NyARToolkitCSUtils\NyARToolkitCSUtils.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="NyARToolkitCS.sandbox" Source="NyARToolkitCS.sandbox\NyARToolkitCS.sandbox.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="NyARToolkitCS.rpf" Source="NyARToolkitCS.rpf\NyARToolkitCS.rpf.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="NyARToolkitCS.markersystem" Source="NyARToolkitCS.markersystem\NyARToolkitCS.markersystem.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

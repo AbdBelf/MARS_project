@@ -1,0 +1,68 @@
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCS\bin\Debug\NyARToolkitCS.dll
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCS\bin\Debug\NyARToolkitCS.pdb
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCS\obj\Debug\jp.nyatla.nyartoolkit.Properties.Resources.resources
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCS\obj\Debug\NyARToolkitCS.csproj.GenerateResource.Cache
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCS\obj\Debug\NyARToolkitCS.dll
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCS\obj\Debug\NyARToolkitCS.pdb
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCS\bin\Debug\NyARToolkitCS.dll
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCS\bin\Debug\NyARToolkitCS.pdb
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCS\obj\Debug\jp.nyatla.nyartoolkit.Properties.Resources.resources
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCS\obj\Debug\NyARToolkitCS.csproj.GenerateResource.Cache
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCS\obj\Debug\NyARToolkitCS.dll
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCS\obj\Debug\NyARToolkitCS.pdb
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\NyARToolkitCS\bin\Debug\NyARToolkitCS.dll
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\NyARToolkitCS\bin\Debug\NyARToolkitCS.pdb
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\NyARToolkitCS\obj\Debug\NyARToolkitCS.csprojResolveAssemblyReference.cache
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\NyARToolkitCS\obj\Debug\jp.nyatla.nyartoolkit.Properties.Resources.resources
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\NyARToolkitCS\obj\Debug\NyARToolkitCS.csproj.GenerateResource.Cache
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\NyARToolkitCS\obj\Debug\NyARToolkitCS.dll
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\NyARToolkitCS\obj\Debug\NyARToolkitCS.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.5\forFW2.0\NyARToolkitCS\bin\Debug\NyARToolkitCS.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5\forFW2.0\NyARToolkitCS\bin\Debug\NyARToolkitCS.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.5\forFW2.0\NyARToolkitCS\obj\Debug\NyARToolkitCS.csprojResolveAssemblyReference.cache
+D:\Users\zetrix\Desktop\Expert_Version0.5\forFW2.0\NyARToolkitCS\obj\Debug\jp.nyatla.nyartoolkit.Properties.Resources.resources
+D:\Users\zetrix\Desktop\Expert_Version0.5\forFW2.0\NyARToolkitCS\obj\Debug\NyARToolkitCS.csproj.GenerateResource.Cache
+D:\Users\zetrix\Desktop\Expert_Version0.5\forFW2.0\NyARToolkitCS\obj\Debug\NyARToolkitCS.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5\forFW2.0\NyARToolkitCS\obj\Debug\NyARToolkitCS.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW2.0\NyARToolkitCS\bin\Debug\NyARToolkitCS.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW2.0\NyARToolkitCS\bin\Debug\NyARToolkitCS.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW2.0\NyARToolkitCS\obj\Debug\NyARToolkitCS.csprojResolveAssemblyReference.cache
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW2.0\NyARToolkitCS\obj\Debug\jp.nyatla.nyartoolkit.Properties.Resources.resources
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW2.0\NyARToolkitCS\obj\Debug\NyARToolkitCS.csproj.GenerateResource.Cache
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW2.0\NyARToolkitCS\obj\Debug\NyARToolkitCS.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW2.0\NyARToolkitCS\obj\Debug\NyARToolkitCS.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW3.5\NyARToolkitCS\bin\Debug\NyARToolkitCS.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW3.5\NyARToolkitCS\bin\Debug\NyARToolkitCS.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW3.5\NyARToolkitCS\obj\Debug\NyARToolkitCS.csprojResolveAssemblyReference.cache
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW3.5\NyARToolkitCS\obj\Debug\jp.nyatla.nyartoolkit.Properties.Resources.resources
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW3.5\NyARToolkitCS\obj\Debug\NyARToolkitCS.csproj.GenerateResource.Cache
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW3.5\NyARToolkitCS\obj\Debug\NyARToolkitCS.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW3.5\NyARToolkitCS\obj\Debug\NyARToolkitCS.pdb
+H:\Expert_Version0.5.1\forFW2.0\NyARToolkitCS\bin\Debug\NyARToolkitCS.dll
+H:\Expert_Version0.5.1\forFW2.0\NyARToolkitCS\bin\Debug\NyARToolkitCS.pdb
+H:\Expert_Version0.5.1\forFW2.0\NyARToolkitCS\obj\Debug\NyARToolkitCS.csprojResolveAssemblyReference.cache
+H:\Expert_Version0.5.1\forFW2.0\NyARToolkitCS\obj\Debug\jp.nyatla.nyartoolkit.Properties.Resources.resources
+H:\Expert_Version0.5.1\forFW2.0\NyARToolkitCS\obj\Debug\NyARToolkitCS.csproj.GenerateResource.Cache
+H:\Expert_Version0.5.1\forFW2.0\NyARToolkitCS\obj\Debug\NyARToolkitCS.dll
+H:\Expert_Version0.5.1\forFW2.0\NyARToolkitCS\obj\Debug\NyARToolkitCS.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.5.2\forFW2.0\NyARToolkitCS\bin\Debug\NyARToolkitCS.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5.2\forFW2.0\NyARToolkitCS\bin\Debug\NyARToolkitCS.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.5.2\forFW2.0\NyARToolkitCS\obj\Debug\NyARToolkitCS.csprojResolveAssemblyReference.cache
+D:\Users\zetrix\Desktop\Expert_Version0.5.2\forFW2.0\NyARToolkitCS\obj\Debug\jp.nyatla.nyartoolkit.Properties.Resources.resources
+D:\Users\zetrix\Desktop\Expert_Version0.5.2\forFW2.0\NyARToolkitCS\obj\Debug\NyARToolkitCS.csproj.GenerateResource.Cache
+D:\Users\zetrix\Desktop\Expert_Version0.5.2\forFW2.0\NyARToolkitCS\obj\Debug\NyARToolkitCS.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5.2\forFW2.0\NyARToolkitCS\obj\Debug\NyARToolkitCS.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.6.4\forFW2.0\NyARToolkitCS\bin\Debug\NyARToolkitCS.dll
+D:\Users\zetrix\Desktop\Expert_Version0.6.4\forFW2.0\NyARToolkitCS\bin\Debug\NyARToolkitCS.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.6.4\forFW2.0\NyARToolkitCS\obj\Debug\NyARToolkitCS.csprojResolveAssemblyReference.cache
+D:\Users\zetrix\Desktop\Expert_Version0.6.4\forFW2.0\NyARToolkitCS\obj\Debug\jp.nyatla.nyartoolkit.Properties.Resources.resources
+D:\Users\zetrix\Desktop\Expert_Version0.6.4\forFW2.0\NyARToolkitCS\obj\Debug\NyARToolkitCS.csproj.GenerateResource.Cache
+D:\Users\zetrix\Desktop\Expert_Version0.6.4\forFW2.0\NyARToolkitCS\obj\Debug\NyARToolkitCS.dll
+D:\Users\zetrix\Desktop\Expert_Version0.6.4\forFW2.0\NyARToolkitCS\obj\Debug\NyARToolkitCS.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.7.0\forFW3.5\NyARToolkitCS\bin\Debug\NyARToolkitCS.dll
+D:\Users\zetrix\Desktop\Expert_Version0.7.0\forFW3.5\NyARToolkitCS\bin\Debug\NyARToolkitCS.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.7.0\forFW3.5\NyARToolkitCS\obj\Debug\NyARToolkitCS.csprojResolveAssemblyReference.cache
+D:\Users\zetrix\Desktop\Expert_Version0.7.0\forFW3.5\NyARToolkitCS\obj\Debug\jp.nyatla.nyartoolkit.Properties.Resources.resources
+D:\Users\zetrix\Desktop\Expert_Version0.7.0\forFW3.5\NyARToolkitCS\obj\Debug\NyARToolkitCS.csproj.GenerateResource.Cache
+D:\Users\zetrix\Desktop\Expert_Version0.7.0\forFW3.5\NyARToolkitCS\obj\Debug\NyARToolkitCS.dll
+D:\Users\zetrix\Desktop\Expert_Version0.7.0\forFW3.5\NyARToolkitCS\obj\Debug\NyARToolkitCS.pdb

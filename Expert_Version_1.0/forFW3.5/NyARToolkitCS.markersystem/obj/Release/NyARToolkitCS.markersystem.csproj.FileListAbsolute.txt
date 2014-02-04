@@ -1,0 +1,7 @@
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCS.markersystem\bin\Release\NyARToolkitCS.markersystem.dll
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCS.markersystem\bin\Release\NyARToolkitCS.markersystem.pdb
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCS.markersystem\bin\Release\NyARToolkitCS.dll
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCS.markersystem\bin\Release\NyARToolkitCS.pdb
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCS.markersystem\obj\Release\ResolveAssemblyReference.cache
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCS.markersystem\obj\Release\NyARToolkitCS.markersystem.dll
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCS.markersystem\obj\Release\NyARToolkitCS.markersystem.pdb

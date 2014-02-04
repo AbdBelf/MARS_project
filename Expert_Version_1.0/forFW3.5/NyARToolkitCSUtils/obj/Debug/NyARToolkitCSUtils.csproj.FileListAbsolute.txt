@@ -1,0 +1,150 @@
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.csprojResolveAssemblyReference.cache
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.Capture.CameraSelectDialog.resources
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.Direct3d.D3dSketchForm.resources
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.csproj.GenerateResource.Cache
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCSUtils.dll
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCSUtils.pdb
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\DirectShowLib-2005.dll
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.dll
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.markersystem.dll
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.rpf.dll
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.markersystem.pdb
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.rpf.pdb
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.pdb
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.dll
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.pdb
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCSUtils.dll
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCSUtils.pdb
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\DirectShowLib-2005.dll
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.dll
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.markersystem.dll
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.rpf.dll
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.markersystem.pdb
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.rpf.pdb
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.pdb
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.csprojResolveAssemblyReference.cache
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.Capture.CameraSelectDialog.resources
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.Direct3d.D3dSketchForm.resources
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.csproj.GenerateResource.Cache
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.dll
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.pdb
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCSUtils.dll
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCSUtils.pdb
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\NyARToolkitCSUtils\bin\Debug\DirectShowLib-2005.dll
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.dll
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.markersystem.dll
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.rpf.dll
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.markersystem.pdb
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.rpf.pdb
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.pdb
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.csprojResolveAssemblyReference.cache
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.Capture.CameraSelectDialog.resources
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.Direct3d.D3dSketchForm.resources
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.csproj.GenerateResource.Cache
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.dll
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.5\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCSUtils.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCSUtils.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.5\forFW2.0\NyARToolkitCSUtils\bin\Debug\DirectShowLib-2005.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.markersystem.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.rpf.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.markersystem.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.5\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.rpf.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.5\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.5\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.csprojResolveAssemblyReference.cache
+D:\Users\zetrix\Desktop\Expert_Version0.5\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.Capture.CameraSelectDialog.resources
+D:\Users\zetrix\Desktop\Expert_Version0.5\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.Direct3d.D3dSketchForm.resources
+D:\Users\zetrix\Desktop\Expert_Version0.5\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.csproj.GenerateResource.Cache
+D:\Users\zetrix\Desktop\Expert_Version0.5\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCSUtils.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCSUtils.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\DirectShowLib-2005.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.markersystem.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.rpf.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.markersystem.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.rpf.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.csprojResolveAssemblyReference.cache
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.Capture.CameraSelectDialog.resources
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.Direct3d.D3dSketchForm.resources
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.csproj.GenerateResource.Cache
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW3.5\NyARToolkitCSUtils\bin\Debug\NyARToolkitCSUtils.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW3.5\NyARToolkitCSUtils\bin\Debug\NyARToolkitCSUtils.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW3.5\NyARToolkitCSUtils\bin\Debug\DirectShowLib-2005.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW3.5\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW3.5\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.markersystem.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW3.5\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.rpf.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW3.5\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.markersystem.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW3.5\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.rpf.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW3.5\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW3.5\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.csprojResolveAssemblyReference.cache
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW3.5\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.Capture.CameraSelectDialog.resources
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW3.5\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.Direct3d.D3dSketchForm.resources
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW3.5\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.csproj.GenerateResource.Cache
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW3.5\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5.1\forFW3.5\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.pdb
+H:\Expert_Version0.5.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCSUtils.dll
+H:\Expert_Version0.5.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCSUtils.pdb
+H:\Expert_Version0.5.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\DirectShowLib-2005.dll
+H:\Expert_Version0.5.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.dll
+H:\Expert_Version0.5.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.markersystem.dll
+H:\Expert_Version0.5.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.rpf.dll
+H:\Expert_Version0.5.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.markersystem.pdb
+H:\Expert_Version0.5.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.rpf.pdb
+H:\Expert_Version0.5.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.pdb
+H:\Expert_Version0.5.1\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.csprojResolveAssemblyReference.cache
+H:\Expert_Version0.5.1\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.Capture.CameraSelectDialog.resources
+H:\Expert_Version0.5.1\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.Direct3d.D3dSketchForm.resources
+H:\Expert_Version0.5.1\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.csproj.GenerateResource.Cache
+H:\Expert_Version0.5.1\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.dll
+H:\Expert_Version0.5.1\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.5.2\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCSUtils.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5.2\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCSUtils.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.5.2\forFW2.0\NyARToolkitCSUtils\bin\Debug\DirectShowLib-2005.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5.2\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5.2\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.markersystem.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5.2\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.rpf.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5.2\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.markersystem.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.5.2\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.rpf.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.5.2\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.5.2\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.csprojResolveAssemblyReference.cache
+D:\Users\zetrix\Desktop\Expert_Version0.5.2\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.Capture.CameraSelectDialog.resources
+D:\Users\zetrix\Desktop\Expert_Version0.5.2\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.Direct3d.D3dSketchForm.resources
+D:\Users\zetrix\Desktop\Expert_Version0.5.2\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.csproj.GenerateResource.Cache
+D:\Users\zetrix\Desktop\Expert_Version0.5.2\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.dll
+D:\Users\zetrix\Desktop\Expert_Version0.5.2\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.6.4\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCSUtils.dll
+D:\Users\zetrix\Desktop\Expert_Version0.6.4\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCSUtils.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.6.4\forFW2.0\NyARToolkitCSUtils\bin\Debug\DirectShowLib-2005.dll
+D:\Users\zetrix\Desktop\Expert_Version0.6.4\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.dll
+D:\Users\zetrix\Desktop\Expert_Version0.6.4\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.markersystem.dll
+D:\Users\zetrix\Desktop\Expert_Version0.6.4\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.rpf.dll
+D:\Users\zetrix\Desktop\Expert_Version0.6.4\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.markersystem.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.6.4\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.rpf.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.6.4\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.6.4\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.csprojResolveAssemblyReference.cache
+D:\Users\zetrix\Desktop\Expert_Version0.6.4\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.Capture.CameraSelectDialog.resources
+D:\Users\zetrix\Desktop\Expert_Version0.6.4\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.Direct3d.D3dSketchForm.resources
+D:\Users\zetrix\Desktop\Expert_Version0.6.4\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.csproj.GenerateResource.Cache
+D:\Users\zetrix\Desktop\Expert_Version0.6.4\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.dll
+D:\Users\zetrix\Desktop\Expert_Version0.6.4\forFW2.0\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.7.0\forFW3.5\NyARToolkitCSUtils\bin\Debug\NyARToolkitCSUtils.dll
+D:\Users\zetrix\Desktop\Expert_Version0.7.0\forFW3.5\NyARToolkitCSUtils\bin\Debug\NyARToolkitCSUtils.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.7.0\forFW3.5\NyARToolkitCSUtils\bin\Debug\DirectShowLib-2005.dll
+D:\Users\zetrix\Desktop\Expert_Version0.7.0\forFW3.5\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.dll
+D:\Users\zetrix\Desktop\Expert_Version0.7.0\forFW3.5\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.markersystem.dll
+D:\Users\zetrix\Desktop\Expert_Version0.7.0\forFW3.5\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.rpf.dll
+D:\Users\zetrix\Desktop\Expert_Version0.7.0\forFW3.5\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.markersystem.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.7.0\forFW3.5\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.rpf.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.7.0\forFW3.5\NyARToolkitCSUtils\bin\Debug\NyARToolkitCS.pdb
+D:\Users\zetrix\Desktop\Expert_Version0.7.0\forFW3.5\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.csprojResolveAssemblyReference.cache
+D:\Users\zetrix\Desktop\Expert_Version0.7.0\forFW3.5\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.Capture.CameraSelectDialog.resources
+D:\Users\zetrix\Desktop\Expert_Version0.7.0\forFW3.5\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.Direct3d.D3dSketchForm.resources
+D:\Users\zetrix\Desktop\Expert_Version0.7.0\forFW3.5\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.csproj.GenerateResource.Cache
+D:\Users\zetrix\Desktop\Expert_Version0.7.0\forFW3.5\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.dll
+D:\Users\zetrix\Desktop\Expert_Version0.7.0\forFW3.5\NyARToolkitCSUtils\obj\Debug\NyARToolkitCSUtils.pdb

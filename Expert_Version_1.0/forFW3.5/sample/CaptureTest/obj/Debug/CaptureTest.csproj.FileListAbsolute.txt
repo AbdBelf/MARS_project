@@ -1,0 +1,54 @@
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\obj\Debug\CaptureTest.csproj.GenerateResource.Cache
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\bin\Debug\CaptureTest.exe
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\bin\Debug\CaptureTest.pdb
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\bin\Debug\DirectShowLib-2005.dll
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\bin\Debug\NyARToolkitCS.dll
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\bin\Debug\NyARToolkitCSUtils.dll
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\bin\Debug\NyARToolkitCS.markersystem.dll
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\bin\Debug\NyARToolkitCS.rpf.dll
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\bin\Debug\NyARToolkitCSUtils.pdb
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\bin\Debug\NyARToolkitCS.pdb
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\bin\Debug\NyARToolkitCS.markersystem.pdb
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\bin\Debug\NyARToolkitCS.rpf.pdb
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\obj\Debug\CaptureTest.Form1.resources
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\obj\Debug\CaptureTest.Properties.Resources.resources
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\obj\Debug\CaptureTest.exe
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\obj\Debug\CaptureTest.pdb
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\bin\Debug\CaptureTest.exe.config
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\obj\Debug\CaptureTest.csprojResolveAssemblyReference.cache
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\bin\Debug\CaptureTest.exe.config
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\bin\Debug\CaptureTest.exe
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\bin\Debug\CaptureTest.pdb
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\bin\Debug\DirectShowLib-2005.dll
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\bin\Debug\NyARToolkitCS.dll
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\bin\Debug\NyARToolkitCSUtils.dll
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\bin\Debug\NyARToolkitCS.rpf.dll
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\bin\Debug\NyARToolkitCS.markersystem.dll
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\bin\Debug\NyARToolkitCSUtils.pdb
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\bin\Debug\NyARToolkitCS.pdb
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\bin\Debug\NyARToolkitCS.rpf.pdb
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\bin\Debug\NyARToolkitCS.markersystem.pdb
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\obj\Debug\CaptureTest.csprojResolveAssemblyReference.cache
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\obj\Debug\CaptureTest.Form1.resources
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\obj\Debug\CaptureTest.Properties.Resources.resources
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\obj\Debug\CaptureTest.csproj.GenerateResource.Cache
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\obj\Debug\CaptureTest.exe
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\CaptureTest\obj\Debug\CaptureTest.pdb
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\CaptureTest\bin\Debug\CaptureTest.exe.config
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\CaptureTest\bin\Debug\CaptureTest.exe
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\CaptureTest\bin\Debug\CaptureTest.pdb
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\CaptureTest\bin\Debug\DirectShowLib-2005.dll
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\CaptureTest\bin\Debug\NyARToolkitCS.dll
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\CaptureTest\bin\Debug\NyARToolkitCSUtils.dll
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\CaptureTest\bin\Debug\NyARToolkitCS.rpf.dll
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\CaptureTest\bin\Debug\NyARToolkitCS.markersystem.dll
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\CaptureTest\bin\Debug\NyARToolkitCSUtils.pdb
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\CaptureTest\bin\Debug\NyARToolkitCS.pdb
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\CaptureTest\bin\Debug\NyARToolkitCS.rpf.pdb
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\CaptureTest\bin\Debug\NyARToolkitCS.markersystem.pdb
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\CaptureTest\obj\Debug\CaptureTest.csprojResolveAssemblyReference.cache
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\CaptureTest\obj\Debug\CaptureTest.Form1.resources
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\CaptureTest\obj\Debug\CaptureTest.Properties.Resources.resources
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\CaptureTest\obj\Debug\CaptureTest.csproj.GenerateResource.Cache
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\CaptureTest\obj\Debug\CaptureTest.exe
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\CaptureTest\obj\Debug\CaptureTest.pdb

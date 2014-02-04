@@ -1,0 +1,31 @@
+E:\VS10_Projects\Mars Projects\Administrator\Administrator\bin\Debug\Administrator.exe
+E:\VS10_Projects\Mars Projects\Administrator\Administrator\bin\Debug\Administrator.pdb
+E:\VS10_Projects\Mars Projects\Administrator\Administrator\obj\x86\Debug\Administrator.AdministratorApp.resources
+E:\VS10_Projects\Mars Projects\Administrator\Administrator\obj\x86\Debug\Administrator.Properties.Resources.resources
+E:\VS10_Projects\Mars Projects\Administrator\Administrator\obj\x86\Debug\Administrator.csproj.GenerateResource.Cache
+E:\VS10_Projects\Mars Projects\Administrator\Administrator\obj\x86\Debug\Administrator.exe
+E:\VS10_Projects\Mars Projects\Administrator\Administrator\obj\x86\Debug\Administrator.pdb
+E:\VS10_Projects\Mars Projects\Administrator\Administrator\obj\x86\Debug\Administrator.csprojResolveAssemblyReference.cache
+E:\VS10_Projects\Mars Projects\Administrator\Administrator\obj\x86\Debug\Administrator.frm_AddActor.resources
+E:\VS10_Projects\Mars Projects\Administrator\Administrator\obj\x86\Debug\Administrator.frm_ModifyActor.resources
+E:\VS10_Projects\Mars Projects\Administrator\Administrator\obj\x86\Debug\Administrator.frm_SearchActor.resources
+E:\VS10_Projects\Mars Projects\Administrator\Administrator\obj\x86\Debug\Administrator.frm_AdminProfile.resources
+E:\VS10_Projects\Mars Projects\Administrator\Administrator\obj\x86\Debug\Administrator.frm_AdminFirstConfiguration.resources
+E:\VS10_Projects\Mars Projects\Administrator\Administrator\obj\x86\Debug\Administrator.frm_Login.resources
+E:\VS10_Projects\Mars Projects\Administrator\Administrator\bin\Debug\Administrator.exe.config
+F:\Android\Tools\Android Tools\Memoire\Applications\Final Applications\Applications\Administrator_1.0\Administrator\bin\Debug\Administrator.exe.config
+F:\Android\Tools\Android Tools\Memoire\Applications\Final Applications\Applications\Administrator_1.0\Administrator\obj\x86\Debug\Administrator.exe
+F:\Android\Tools\Android Tools\Memoire\Applications\Final Applications\Applications\Administrator_1.0\Administrator\obj\x86\Debug\Administrator.pdb
+F:\Android\Tools\Android Tools\Memoire\Applications\Final Applications\Applications\Administrator_1.0\Administrator\bin\Debug\Administrator.exe
+F:\Android\Tools\Android Tools\Memoire\Applications\Final Applications\Applications\Administrator_1.0\Administrator\bin\Debug\Administrator.pdb
+F:\Android\Tools\Android Tools\Memoire\Applications\Final Applications\Applications\Administrator_1.0\Administrator\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Android\Tools\Android Tools\Memoire\Applications\Final Applications\Applications\Administrator_1.0\Administrator\obj\x86\Debug\Administrator.frm_AddActor.resources
+F:\Android\Tools\Android Tools\Memoire\Applications\Final Applications\Applications\Administrator_1.0\Administrator\obj\x86\Debug\Administrator.frm_AdminFirstConfiguration.resources
+F:\Android\Tools\Android Tools\Memoire\Applications\Final Applications\Applications\Administrator_1.0\Administrator\obj\x86\Debug\Administrator.frm_AdminProfile.resources
+F:\Android\Tools\Android Tools\Memoire\Applications\Final Applications\Applications\Administrator_1.0\Administrator\obj\x86\Debug\Administrator.frm_Login.resources
+F:\Android\Tools\Android Tools\Memoire\Applications\Final Applications\Applications\Administrator_1.0\Administrator\obj\x86\Debug\Administrator.AdministratorApp.resources
+F:\Android\Tools\Android Tools\Memoire\Applications\Final Applications\Applications\Administrator_1.0\Administrator\obj\x86\Debug\Administrator.frm_ModifyActor.resources
+F:\Android\Tools\Android Tools\Memoire\Applications\Final Applications\Applications\Administrator_1.0\Administrator\obj\x86\Debug\Administrator.frm_SearchActor.resources
+F:\Android\Tools\Android Tools\Memoire\Applications\Final Applications\Applications\Administrator_1.0\Administrator\obj\x86\Debug\Administrator.Properties.Resources.resources
+F:\Android\Tools\Android Tools\Memoire\Applications\Final Applications\Applications\Administrator_1.0\Administrator\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Android\Tools\Android Tools\Memoire\Applications\Final Applications\Applications\Administrator_1.0\Administrator\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog

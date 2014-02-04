@@ -1,0 +1,42 @@
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Debug\SimpleLite.exe
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Debug\SimpleLite.pdb
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Debug\DirectShowLib-2005.dll
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Debug\NyARToolkitCS.dll
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Debug\NyARToolkitCS.markersystem.dll
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Debug\NyARToolkitCSUtils.dll
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Debug\NyARToolkitCS.rpf.dll
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Debug\NyARToolkitCS.markersystem.pdb
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Debug\NyARToolkitCSUtils.pdb
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Debug\NyARToolkitCS.pdb
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Debug\NyARToolkitCS.rpf.pdb
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\obj\Debug\SimpleLite.exe
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\obj\Debug\SimpleLite.pdb
+P:\Users\Abdelalim\Desktop\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\obj\Debug\SimpleLite.csprojResolveAssemblyReference.cache
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Debug\SimpleLite.exe
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Debug\SimpleLite.pdb
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Debug\DirectShowLib-2005.dll
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Debug\NyARToolkitCS.dll
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Debug\NyARToolkitCS.markersystem.dll
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Debug\NyARToolkitCSUtils.dll
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Debug\NyARToolkitCS.rpf.dll
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Debug\NyARToolkitCS.markersystem.pdb
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Debug\NyARToolkitCSUtils.pdb
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Debug\NyARToolkitCS.pdb
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Debug\NyARToolkitCS.rpf.pdb
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\obj\Debug\SimpleLite.csprojResolveAssemblyReference.cache
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\obj\Debug\SimpleLite.exe
+E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\obj\Debug\SimpleLite.pdb
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\SimpleLite\bin\Debug\SimpleLite.exe
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\SimpleLite\bin\Debug\SimpleLite.pdb
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\SimpleLite\bin\Debug\DirectShowLib-2005.dll
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\SimpleLite\bin\Debug\NyARToolkitCS.dll
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\SimpleLite\bin\Debug\NyARToolkitCS.markersystem.dll
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\SimpleLite\bin\Debug\NyARToolkitCSUtils.dll
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\SimpleLite\bin\Debug\NyARToolkitCS.rpf.dll
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\SimpleLite\bin\Debug\NyARToolkitCS.markersystem.pdb
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\SimpleLite\bin\Debug\NyARToolkitCSUtils.pdb
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\SimpleLite\bin\Debug\NyARToolkitCS.pdb
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\SimpleLite\bin\Debug\NyARToolkitCS.rpf.pdb
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\SimpleLite\obj\Debug\SimpleLite.csprojResolveAssemblyReference.cache
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\SimpleLite\obj\Debug\SimpleLite.exe
+E:\VS10_Projects\Mars Projects\Expert\forFW2.0\sample\SimpleLite\obj\Debug\SimpleLite.pdb

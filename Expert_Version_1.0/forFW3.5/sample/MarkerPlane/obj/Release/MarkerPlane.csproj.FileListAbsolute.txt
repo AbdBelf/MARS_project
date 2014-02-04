@@ -1,0 +1,14 @@
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\sample\MarkerPlane\bin\Release\MarkerPlane.exe
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\sample\MarkerPlane\bin\Release\MarkerPlane.pdb
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\sample\MarkerPlane\bin\Release\DirectShowLib-2005.dll
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\sample\MarkerPlane\bin\Release\NyARToolkitCS.dll
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\sample\MarkerPlane\bin\Release\NyARToolkitCS.markersystem.dll
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\sample\MarkerPlane\bin\Release\NyARToolkitCSUtils.dll
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\sample\MarkerPlane\bin\Release\NyARToolkitCS.rpf.dll
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\sample\MarkerPlane\bin\Release\NyARToolkitCS.rpf.pdb
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\sample\MarkerPlane\bin\Release\NyARToolkitCSUtils.pdb
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\sample\MarkerPlane\bin\Release\NyARToolkitCS.pdb
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\sample\MarkerPlane\bin\Release\NyARToolkitCS.markersystem.pdb
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\sample\MarkerPlane\obj\Release\ResolveAssemblyReference.cache
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\sample\MarkerPlane\obj\Release\MarkerPlane.exe
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\sample\MarkerPlane\obj\Release\MarkerPlane.pdb

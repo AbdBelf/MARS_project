@@ -1,0 +1,109 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.project"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="15" />
+
+
+    <application
+        android:icon="@drawable/three3d"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity 
+            android:name=".activity.listxml.SpalshScreenActivity"
+            android:screenOrientation="portrait"
+            android:label="@string/title_activity_spalsh_screen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+         <activity
+            android:name=".activity.listxml.LoginInterface"
+            android:screenOrientation="portrait"
+            android:label="Connexion " >
+        </activity>
+        <activity
+            android:name=".activity.listxml.MainActivity"
+            android:label="@string/activity_main" >
+        </activity>
+        <activity
+            android:name=".activity.listxml.PanneActivity"
+            android:label="@string/activity_panne" >
+        </activity>
+        <activity
+            android:name=".activity.listxml.ProcedureActivity"
+            android:label="@string/activity_procedure" >
+        </activity>
+        <activity
+            android:name=".mars.MarsARActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:label="@string/title_activity_main"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+             >
+        </activity>
+        <activity
+            android:name=".mars.LoginDialog"
+            android:label="@string/title_Login"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".expert.MarsARActivityExpert"
+            android:configChanges="keyboardHidden|orientation"
+            android:label="@string/title_activity_expert"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name=".expert.DescriptionAide"
+            android:label="Diagnostic : " >
+        </activity>
+        <activity
+            android:name=".manager.managerActivity"
+            android:label="Parametres : " >
+        </activity>
+       
+        <activity
+            android:name=".horsligne.MainActivityHorsligne"
+            android:label="@string/activity_main" >
+        </activity>
+        <activity
+            android:name=".horsligne.PanneActivityHorsligne"
+            android:label="@string/activity_panne" >
+        </activity>
+        <activity
+            android:name=".horsligne.ProcedureActivityHorsligne"
+            android:label="@string/activity_procedure" >
+        </activity>
+        <activity
+            android:name=".expert.ConnectedExpertsActivity"
+            android:label="@string/ConnectedExperts" >
+        </activity>
+    </application>
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INSTALL_PACKAGES" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.DELETE_PACKAGES" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RESTART_PACKAGES" />
+    <uses-permission android:name="android.permission.ACCESS_SURFACE_FLINGER" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <uses-permission android:name="android.permission.BRICK" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.INTERNAL_SYSTEM_WINDOW" />
+    <uses-permission android:name="android.permission.MASTER_CLEAR" />
+    <uses-permission android:name="android.permission.READ_FRAME_BUFFER" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+</manifest>

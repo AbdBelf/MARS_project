@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D5FCC4D9-A35A-4024-9C8E-8324E0B3BB00}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MARS_Expert</RootNamespace>
+    <AssemblyName>MARS_Expert</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Manager\3d.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.DirectX, Version=1.0.2902.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="Microsoft.DirectX.AudioVideoPlayback, Version=1.0.2902.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.DirectX.Direct3D, Version=1.0.2902.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="Microsoft.DirectX.Direct3DX, Version=1.0.2902.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="NyARToolkitCS, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCS\bin\Debug\NyARToolkitCS.dll</HintPath>
+    </Reference>
+    <Reference Include="NyARToolkitCSUtils">
+      <HintPath>E:\VS10_Projects\Mars Projects\NyARToolkitCS-4.1.1\forFW2.0\NyARToolkitCSUtils\bin\Debug\NyARToolkitCSUtils.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frm_Add3dObject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Add3dObject.designer.cs">
+      <DependentUpon>frm_Add3dObject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_AddProcedure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_AddProcedure.designer.cs">
+      <DependentUpon>frm_AddProcedure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_AddStep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_AddStep.designer.cs">
+      <DependentUpon>frm_AddStep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_GetDescription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_GetDescription.designer.cs">
+      <DependentUpon>frm_GetDescription.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Login.designer.cs">
+      <DependentUpon>frm_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListOf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListOf.Designer.cs">
+      <DependentUpon>ListOf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager\ExpertManager\Actor.cs" />
+    <Compile Include="Manager\Constante.cs" />
+    <Compile Include="Manager\ExpertManager\Check.cs" />
+    <Compile Include="Manager\Helper.cs" />
+    <Compile Include="Manager\ResourceManager\Etape.cs" />
+    <Compile Include="Manager\ExpertManager\Expert.cs" />
+    <Compile Include="Manager\ResourceManager\Object3d.cs" />
+    <Compile Include="Manager\ResourceManager\Panne.cs" />
+    <Compile Include="Manager\ResourceManager\Procedure.cs" />
+    <Compile Include="Manager\ResourceManager\TypePanne.cs" />
+    <Compile Include="Manager\XMLResourceManager\XML3dObject.cs" />
+    <Compile Include="Manager\XMLResourceManager\XMLFailure.cs" />
+    <Compile Include="Manager\XMLResourceManager\XMLFailureType.cs" />
+    <Compile Include="Manager\XMLResourceManager\XMLProcedure.cs" />
+    <Compile Include="Manager\XMLResourceManager\XMLStep.cs" />
+    <Compile Include="usrProcedure.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="usrProcedure.Designer.cs">
+      <DependentUpon>usrProcedure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RenderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RenderForm.Designer.cs">
+      <DependentUpon>RenderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Manager\XMLManager\XMLActor.cs" />
+    <Compile Include="Manager\XMLManager\XMLExpert.cs" />
+    <Compile Include="usrStep.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="usrStep.Designer.cs">
+      <DependentUpon>usrStep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\WebService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frm_Add3dObject.resx">
+      <DependentUpon>frm_Add3dObject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_AddProcedure.resx">
+      <DependentUpon>frm_AddProcedure.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_AddStep.resx">
+      <DependentUpon>frm_AddStep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_GetDescription.resx">
+      <DependentUpon>frm_GetDescription.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Login.resx">
+      <DependentUpon>frm_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListOf.resx">
+      <DependentUpon>ListOf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="usrProcedure.resx">
+      <DependentUpon>usrProcedure.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RenderForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RenderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="usrStep.resx">
+      <DependentUpon>usrStep.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Web References\WebService\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\WebService\service1.wsdl" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://localhost/android/service1.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\WebService\</RelPath>
+      <UpdateFromURL>http://localhost/android/service1.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>MARS_Expert_WebService_Service1</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Web References\WebService\service1.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Manager\3d.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

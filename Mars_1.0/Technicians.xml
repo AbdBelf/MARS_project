@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Technicians>
+  <Technician id="0" login="d" password="g">
+    <firstName>lklkjmljmlj</firstName>
+    <lastName>qdqdq</lastName>
+    <email>slmslkd@mlk.lk</email>
+    <phoneNumber>0988932323</phoneNumber>
+    <address>sdfdfgdfgdfg</address>
+    <role>Technicien</role>
+    <specialty>dfggfdgdf</specialty>
+    <status>Deactivated</status>
+  </Technician>
+  <Technician id="1" login="dfgdgdfgdp" password="ggg">
+    <firstName>lklkjmljmlj</firstName>
+    <lastName>qdqdq</lastName>
+    <email>slmslkd@mlk.lk</email>
+    <phoneNumber>0988932323</phoneNumber>
+    <address>sdfdfgdfgdfg</address>
+    <role>Technicien</role>
+    <specialty>dfggfdgdf</specialty>
+    <status>Deactivated</status>
+  </Technician>
+  <Technician id="2" login="dfgdgdfgdg" password="ggg">
+    <firstName>lklkjmljmlj</firstName>
+    <lastName>qdqdq</lastName>
+    <email>slmslkd@mlk.lk</email>
+    <phoneNumber>0988932323</phoneNumber>
+    <address>sdfdfgdfgdfg</address>
+    <role>Technicien</role>
+    <specialty>dfggfdgdf</specialty>
+    <status>Deactivated</status>
+  </Technician>
+  <Technician id="3" login="hi" password="gggfgfg">
+    <firstName>lklkjmljmlj</firstName>
+    <lastName>qdqdq</lastName>
+    <email>slmslkd@mlk.lk</email>
+    <phoneNumber>0988932332</phoneNumber>
+    <address>sdfdfgdfgdfg</address>
+    <role>Technicien</role>
+    <specialty>dfggfdgdf</specialty>
+    <status>Activated</status>
+  </Technician>
+  <MaxID>3</MaxID>
+</Technicians>

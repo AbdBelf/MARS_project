@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollVieManager"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#f8f9fe" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/LinearLayoutManager"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@drawable/actionbar_background"
+            android:clickable="false"
+            android:paddingLeft="15dip"
+            android:scaleType="center"
+            android:src="@drawable/mars_logo" />
+
+        <TextView
+            android:id="@+id/textViewMarkerMax"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="20dp"
+            android:text="Marker Max :"
+            android:textColor="#ff29549f"
+            android:textSize="20dp" />
+
+        <EditText
+            android:id="@+id/editTextMarkerMax"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="numberDecimal" >
+
+            <requestFocus />
+        </EditText>
+
+        <TextView
+            android:id="@+id/textViewNameSpace"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="NameSpace web service :"
+            android:textColor="#ff29549f"
+            android:textSize="20dp" />
+
+        <EditText
+            android:id="@+id/editTextNameSpace"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text" >
+
+            <requestFocus />
+        </EditText>
+
+        <TextView
+            android:id="@+id/textViewIp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="IP web service :"
+            android:textColor="#ff29549f"
+            android:textSize="20dp" />
+
+        <EditText
+            android:id="@+id/editTextIp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textCapWords" >
+
+            <requestFocus />
+        </EditText>
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp" >
+
+            <Button
+                android:id="@+id/btnAnnuler"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginLeft="20dp"
+                android:text=" Annuler " />
+            
+             <Button
+                android:id="@+id/btnEnregistrer"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="20dp"
+                android:text=" Enregistrer " />
+            
+
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="10dip"
+            android:text="Mobile Augmented Reality System"
+            android:textColor="#606060"
+            android:textSize="10dp" />
+    </LinearLayout>
+
+</ScrollView>

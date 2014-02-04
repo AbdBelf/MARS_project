@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="setb">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="value" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="t" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="setbResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="getb">
+        <s:complexType />
+      </s:element>
+      <s:element name="getbResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getbResult" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getb64">
+        <s:complexType />
+      </s:element>
+      <s:element name="getb64Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getb64Result" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="setx">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="value" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="setxResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="getx">
+        <s:complexType />
+      </s:element>
+      <s:element name="getxResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="getxResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getLength">
+        <s:complexType />
+      </s:element>
+      <s:element name="getLengthResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="getLengthResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="loginTechnicien">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="id" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="pass" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="loginTechnicienResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="loginTechnicienResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getNomTechnicien">
+        <s:complexType />
+      </s:element>
+      <s:element name="getNomTechnicienResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getNomTechnicienResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="setmat">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="p0" type="s:float" />
+            <s:element minOccurs="1" maxOccurs="1" name="p1" type="s:float" />
+            <s:element minOccurs="1" maxOccurs="1" name="p2" type="s:float" />
+            <s:element minOccurs="1" maxOccurs="1" name="p3" type="s:float" />
+            <s:element minOccurs="1" maxOccurs="1" name="p4" type="s:float" />
+            <s:element minOccurs="1" maxOccurs="1" name="p5" type="s:float" />
+            <s:element minOccurs="1" maxOccurs="1" name="p6" type="s:float" />
+            <s:element minOccurs="1" maxOccurs="1" name="p7" type="s:float" />
+            <s:element minOccurs="1" maxOccurs="1" name="p8" type="s:float" />
+            <s:element minOccurs="1" maxOccurs="1" name="p9" type="s:float" />
+            <s:element minOccurs="1" maxOccurs="1" name="p10" type="s:float" />
+            <s:element minOccurs="1" maxOccurs="1" name="p11" type="s:float" />
+            <s:element minOccurs="1" maxOccurs="1" name="p12" type="s:float" />
+            <s:element minOccurs="1" maxOccurs="1" name="p13" type="s:float" />
+            <s:element minOccurs="1" maxOccurs="1" name="p14" type="s:float" />
+            <s:element minOccurs="1" maxOccurs="1" name="p15" type="s:float" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="setmatResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="getMat">
+        <s:complexType />
+      </s:element>
+      <s:element name="getMatResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getMatResult" type="tns:ArrayOfFloat" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfFloat">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="float" type="s:float" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="setbSoapIn">
+    <wsdl:part name="parameters" element="tns:setb" />
+  </wsdl:message>
+  <wsdl:message name="setbSoapOut">
+    <wsdl:part name="parameters" element="tns:setbResponse" />
+  </wsdl:message>
+  <wsdl:message name="getbSoapIn">
+    <wsdl:part name="parameters" element="tns:getb" />
+  </wsdl:message>
+  <wsdl:message name="getbSoapOut">
+    <wsdl:part name="parameters" element="tns:getbResponse" />
+  </wsdl:message>
+  <wsdl:message name="getb64SoapIn">
+    <wsdl:part name="parameters" element="tns:getb64" />
+  </wsdl:message>
+  <wsdl:message name="getb64SoapOut">
+    <wsdl:part name="parameters" element="tns:getb64Response" />
+  </wsdl:message>
+  <wsdl:message name="setxSoapIn">
+    <wsdl:part name="parameters" element="tns:setx" />
+  </wsdl:message>
+  <wsdl:message name="setxSoapOut">
+    <wsdl:part name="parameters" element="tns:setxResponse" />
+  </wsdl:message>
+  <wsdl:message name="getxSoapIn">
+    <wsdl:part name="parameters" element="tns:getx" />
+  </wsdl:message>
+  <wsdl:message name="getxSoapOut">
+    <wsdl:part name="parameters" element="tns:getxResponse" />
+  </wsdl:message>
+  <wsdl:message name="getLengthSoapIn">
+    <wsdl:part name="parameters" element="tns:getLength" />
+  </wsdl:message>
+  <wsdl:message name="getLengthSoapOut">
+    <wsdl:part name="parameters" element="tns:getLengthResponse" />
+  </wsdl:message>
+  <wsdl:message name="loginTechnicienSoapIn">
+    <wsdl:part name="parameters" element="tns:loginTechnicien" />
+  </wsdl:message>
+  <wsdl:message name="loginTechnicienSoapOut">
+    <wsdl:part name="parameters" element="tns:loginTechnicienResponse" />
+  </wsdl:message>
+  <wsdl:message name="getNomTechnicienSoapIn">
+    <wsdl:part name="parameters" element="tns:getNomTechnicien" />
+  </wsdl:message>
+  <wsdl:message name="getNomTechnicienSoapOut">
+    <wsdl:part name="parameters" element="tns:getNomTechnicienResponse" />
+  </wsdl:message>
+  <wsdl:message name="setmatSoapIn">
+    <wsdl:part name="parameters" element="tns:setmat" />
+  </wsdl:message>
+  <wsdl:message name="setmatSoapOut">
+    <wsdl:part name="parameters" element="tns:setmatResponse" />
+  </wsdl:message>
+  <wsdl:message name="getMatSoapIn">
+    <wsdl:part name="parameters" element="tns:getMat" />
+  </wsdl:message>
+  <wsdl:message name="getMatSoapOut">
+    <wsdl:part name="parameters" element="tns:getMatResponse" />
+  </wsdl:message>
+  <wsdl:portType name="Service1Soap">
+    <wsdl:operation name="setb">
+      <wsdl:input message="tns:setbSoapIn" />
+      <wsdl:output message="tns:setbSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getb">
+      <wsdl:input message="tns:getbSoapIn" />
+      <wsdl:output message="tns:getbSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getb64">
+      <wsdl:input message="tns:getb64SoapIn" />
+      <wsdl:output message="tns:getb64SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="setx">
+      <wsdl:input message="tns:setxSoapIn" />
+      <wsdl:output message="tns:setxSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getx">
+      <wsdl:input message="tns:getxSoapIn" />
+      <wsdl:output message="tns:getxSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getLength">
+      <wsdl:input message="tns:getLengthSoapIn" />
+      <wsdl:output message="tns:getLengthSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="loginTechnicien">
+      <wsdl:input message="tns:loginTechnicienSoapIn" />
+      <wsdl:output message="tns:loginTechnicienSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getNomTechnicien">
+      <wsdl:input message="tns:getNomTechnicienSoapIn" />
+      <wsdl:output message="tns:getNomTechnicienSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="setmat">
+      <wsdl:input message="tns:setmatSoapIn" />
+      <wsdl:output message="tns:setmatSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getMat">
+      <wsdl:input message="tns:getMatSoapIn" />
+      <wsdl:output message="tns:getMatSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="Service1Soap" type="tns:Service1Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="setb">
+      <soap:operation soapAction="http://tempuri.org/setb" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getb">
+      <soap:operation soapAction="http://tempuri.org/getb" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getb64">
+      <soap:operation soapAction="http://tempuri.org/getb64" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setx">
+      <soap:operation soapAction="http://tempuri.org/setx" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getx">
+      <soap:operation soapAction="http://tempuri.org/getx" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getLength">
+      <soap:operation soapAction="http://tempuri.org/getLength" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="loginTechnicien">
+      <soap:operation soapAction="http://tempuri.org/loginTechnicien" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getNomTechnicien">
+      <soap:operation soapAction="http://tempuri.org/getNomTechnicien" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setmat">
+      <soap:operation soapAction="http://tempuri.org/setmat" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getMat">
+      <soap:operation soapAction="http://tempuri.org/getMat" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="Service1Soap12" type="tns:Service1Soap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="setb">
+      <soap12:operation soapAction="http://tempuri.org/setb" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getb">
+      <soap12:operation soapAction="http://tempuri.org/getb" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getb64">
+      <soap12:operation soapAction="http://tempuri.org/getb64" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setx">
+      <soap12:operation soapAction="http://tempuri.org/setx" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getx">
+      <soap12:operation soapAction="http://tempuri.org/getx" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getLength">
+      <soap12:operation soapAction="http://tempuri.org/getLength" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="loginTechnicien">
+      <soap12:operation soapAction="http://tempuri.org/loginTechnicien" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getNomTechnicien">
+      <soap12:operation soapAction="http://tempuri.org/getNomTechnicien" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setmat">
+      <soap12:operation soapAction="http://tempuri.org/setmat" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getMat">
+      <soap12:operation soapAction="http://tempuri.org/getMat" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="Service1Soap" binding="tns:Service1Soap">
+      <soap:address location="http://localhost/Android/Service1.asmx" />
+    </wsdl:port>
+    <wsdl:port name="Service1Soap12" binding="tns:Service1Soap12">
+      <soap12:address location="http://localhost/Android/Service1.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

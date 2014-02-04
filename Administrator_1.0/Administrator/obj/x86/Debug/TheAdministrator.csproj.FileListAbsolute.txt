@@ -1,0 +1,2 @@
+E:\VS10_Projects\Mars Projects\Administrator\Administrator\obj\x86\Debug\Administrator.exe
+E:\VS10_Projects\Mars Projects\Administrator\Administrator\obj\x86\Debug\Administrator.pdb

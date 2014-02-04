@@ -1,0 +1,14 @@
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Release\SimpleLite.exe
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Release\SimpleLite.pdb
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Release\DirectShowLib-2005.dll
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Release\NyARToolkitCS.dll
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Release\NyARToolkitCS.markersystem.dll
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Release\NyARToolkitCSUtils.dll
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Release\NyARToolkitCS.rpf.dll
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Release\NyARToolkitCS.rpf.pdb
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Release\NyARToolkitCSUtils.pdb
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Release\NyARToolkitCS.pdb
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\bin\Release\NyARToolkitCS.markersystem.pdb
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\obj\Release\ResolveAssemblyReference.cache
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\obj\Release\SimpleLite.exe
+F:\Android\Tools\Android Tools\NyArtoolkit C#\NyARToolkitCS-4.1.1\forFW2.0\sample\SimpleLite\obj\Release\SimpleLite.pdb
